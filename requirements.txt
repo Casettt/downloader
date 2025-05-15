@@ -1,2 +1,4 @@
-aiogram==2.25.2
+aiogram==3.0.0
 requests
+instaloader
+python-dotenv
